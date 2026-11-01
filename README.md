@@ -15,7 +15,7 @@ a repo that allows you to counvert osu!mania beatmaps to a format that can be re
 
 # Installing with FTP tool
 
-1. drag and drop the zip file again in the couvert.bat
+1. drag and drop the zip file again in the counvert.bat
 2. type ps3 ip address
 3. enjoy
 
